@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**RahulRavikumar0574/RahulRavikumar0574** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Rahul Ravikumar | Innovation-Driven Full Stack Builder
 
-Here are some ideas to get you started:
+I'm obsessed with reimagining how tech solves real-world problems.  
+Currently building seamless, cloud-integrated apps that blend intuitive UX with powerful backend logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Specialties:**
+- 🚀 Rapid prototyping with **Next.js**, **TailwindCSS**
+- 🧠 Scalable backends using **Prisma**, **PostgreSQL**, **MongoDB**
+- 🔌 API integrations: **Google**, **Microsoft**, and more
+
+> _"Don’t just build features—craft breakthroughs."_
+
+📫 Let's connect ideas to impact.
