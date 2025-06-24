@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 💡 Rahul Ravikumar | Innovation-Driven Full Stack Builder
-
+ 
 I'm obsessed with reimagining how tech solves real-world problems.  
 Currently building seamless, cloud-integrated apps that blend intuitive UX with powerful backend logic.
 
