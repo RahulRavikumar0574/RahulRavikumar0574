@@ -26,12 +26,15 @@ Currently building seamless, cloud-integrated apps that blend intuitive UX with 
 
 ## 📚 What I'm Learning
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%230C344B.svg?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ## 🚀 Featured Projects
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=RahulRavikumar0574&repo=baldsphere&theme=cobalt)](https://github.com/RahulRavikumar0574/your-best-repo)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=RahulRavikumar0574&Hotel_Management&theme=cobalt)](https://github.com/RahulRavikumar0574/your-second-best-repo)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=RahulRavikumar0574&repo=baldsphere&theme=cobalt)](https://github.com/RahulRavikumar0574/baldsphere)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=RahulRavikumar0574&Hotel_Management&theme=cobalt)](https://github.com/RahulRavikumar0574/Hotel_Management)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RahulRavikumar0574&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
