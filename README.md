@@ -34,7 +34,7 @@ Currently building seamless, cloud-integrated apps that blend intuitive UX with 
 ## 🚀 Featured Projects
 
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=RahulRavikumar0574&repo=baldsphere&theme=cobalt)](https://github.com/RahulRavikumar0574/baldsphere)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=RahulRavikumar0574&Hotel_Management&theme=cobalt)](https://github.com/RahulRavikumar0574/Hotel_Management)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=RahulRavikumar0574&repo=Hotel_Management&theme=cobalt)](https://github.com/RahulRavikumar0574/Hotel_Management)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RahulRavikumar0574&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
